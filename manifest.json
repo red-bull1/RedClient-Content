@@ -3,23 +3,17 @@
   "versions": {
     "1.21.4": {
       "java": 21,
-      "mods": []
+      "mods": [
+        {
+          "name": "redclient-core-0.1.0.jar",
+          "url": "https://raw.githubusercontent.com/red-bull1/RedClient-Content/main/1.21.4/redclient-core-0.1.0.jar",
+          "sha1": "СЮДА_ВСТАВЬ_ХЕШ_ИЗ_ШАГА_2"
+        }
+      ]
     },
-    "1.21.11": {
-      "java": 21,
-      "mods": []
-    },
-    "1.21": {
-      "java": 21,
-      "mods": []
-    },
-    "1.16.5": {
-      "java": 8,
-      "mods": []
-    },
-    "26.3": {
-      "java": 25,
-      "mods": []
-    }
+    "1.21.11": { "java": 21, "mods": [] },
+    "1.21": { "java": 21, "mods": [] },
+    "1.16.5": { "java": 8, "mods": [] },
+    "26.3": { "java": 25, "mods": [] }
   }
 }
