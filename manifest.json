@@ -8,6 +8,11 @@
           "name": "redclient-core-0.1.0.jar",
           "url": "https://raw.githubusercontent.com/red-bull1/RedClient-Content/main/1.21.4/redclient-core-0.1.0.jar",
           "sha1": "B601C8B9290E7F02629155C943C7D0C37AC8FE0A"
+        },
+        {
+          "name": "fabric-api-0.119.4+1.21.4.jar",
+          "url": "https://raw.githubusercontent.com/red-bull1/RedClient-Content/main/1.21.4/fabric-api-0.119.4+1.21.4.jar",
+          "sha1": "1C7871B6AF04EDC8B8F0DBAD12606D67F6118A11"
         }
       ]
     },
